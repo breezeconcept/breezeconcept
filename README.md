@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 __________________________________________
 
 ## **PROFESSION**
-### I am a Fullstack Web Developer and a cybersecurity enthusiast.
+### I am a Software Developer and a cybersecurity enthusiast.
 ___________________________________________
 
 ### **THE STACKS I KNOW**
