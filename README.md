@@ -60,7 +60,7 @@ ___________________________________________
 ___________________________________________
 
 ## **HOW TO REACH ME**
-### [My LinkedIn Profile](https://www.linkedin.com/in/arinze-peter-578a6b1b5/)
+### [My LinkedIn Profile](https://www.linkedin.com/in/arinzepeter/)
 ___________________________________________
 
 
