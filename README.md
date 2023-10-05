@@ -16,47 +16,54 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Hi there 👋, I am Arinze Peter
+# Hi there 👋, I am Arinze Peter
 __________________________________________
 
 ## **PROFESSION**
-### I am a Software Developer and a cybersecurity enthusiast.
+### I am a Software Engineer and a cybersecurity Analyst.
 ___________________________________________
 
-### **THE STACKS I KNOW**
+## **THE STACKS I KNOW**
 - HTML
 - CSS
-- JAVASCRIPT
 - BOOTSTRAP
+- VANILLA JAVASCRIPT
+- REACTJS
+- VUEJS
 - PYTHON
 - DJANGO
+- NODEJS
+- EXPRESSJS
+- SQL
+- LINUX
+- PENETRATION TESTING
 _____________________________________________
 
 
 ## **INTEREST**
 ### I'm interested in these fields...
-- BLOCKCHAIN DEVELOPMENT (Smart Contracts)
-- CYBER SECURITY (Red Teaming)
+- BLOCKCHAIN DEVELOPMENT (web3)
 - DATA SCIENCE
-- SOFTWARE ENGINEERING
-- AI/ML
+- ARTFICIAL INTELLIGENCE
+- MACHINE LEARNING
 
 ___________________________________________
 
 ## **LEARNING**
 ### I'm learning in these ...
-- MERN STACK
-- DATA STRUCTURES AND ALGORITHIM
-- PYTHON FOR DATA SCIENCE
-- PYTHON FOR AUTOMATION
-- PEN TESTING
-- LINUX
-- NETWORKING
+- DART
+- FLUTTER
+- GO
+- C#
+- DOTNET
+- SOLIDITY
+- SMART CONTRACTS
+
 
 ___________________________________________
 
 ## **COLLABORATION**
-### I'm willing to collaborate on software development projects...
+### I'm willing to collaborate on software development and cybersecurity projects...
 ___________________________________________
 
 ## **HOW TO REACH ME**
