@@ -42,7 +42,7 @@ _____________________________________________
 
 ## **INTEREST**
 ### I'm interested in these fields...
-- BLOCKCHAIN DEVELOPMENT (web3)
+- BLOCKCHAIN 
 - DATA SCIENCE
 - ARTFICIAL INTELLIGENCE
 - MACHINE LEARNING
@@ -52,12 +52,11 @@ ___________________________________________
 ## **LEARNING**
 ### I'm learning in these ...
 - DART
-- FLUTTER
 - GO
 - C#
-- DOTNET
+- Ruby
 - SOLIDITY
-- SMART CONTRACTS
+
 
 
 ___________________________________________
