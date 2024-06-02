@@ -66,8 +66,7 @@ ___________________________________________
 ___________________________________________
 
 ## **HOW TO REACH ME**
-### [My LinkedIn Profile](https://www.linkedin.com/in/arinzepeter/)
-[![@lucywambui21](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/breezeconcept/)
+[![@breezeconcept](https://img.icons8.com/fluency/48/000000/linkedin.png "@breezeconcept")](https://www.linkedin.com/in/arinzepeter/)
 
 ___________________________________________
 
@@ -78,7 +77,7 @@ ___________________________________________
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=breezeconcept&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Lucydevonne GitHub stats](https://github-readme-stats.vercel.app/api?username=breezeconcept&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breezeconcept&theme=algolia)](https://github.com/breezeconcept/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=breezeconcept&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![breezeconcept GitHub stats](https://github-readme-stats.vercel.app/api?username=breezeconcept&theme=algolia)](https://github.com/breezeconcept/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breezeconcept&theme=algolia)](https://github.com/breezeconcept/github-readme-stats)
 <br>
 
 ## GitHub Trophies 🏆 :
@@ -90,10 +89,5 @@ ___________________________________________
 <br>
 
 ---
-
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
-
-
-
 
 
