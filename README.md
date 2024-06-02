@@ -67,6 +67,8 @@ ___________________________________________
 
 ## **HOW TO REACH ME**
 ### [My LinkedIn Profile](https://www.linkedin.com/in/arinzepeter/)
+[![@lucywambui21](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/breezeconcept/)
+
 ___________________________________________
 
 
